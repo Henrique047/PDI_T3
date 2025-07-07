@@ -1,3 +1,2 @@
 # PDI_T3
-
-https://github.com/Henrique047/PDI_T3.git
+https://colab.research.google.com/drive/18DoGviJGI5idKoIkrqXBQh4_zWx1mLzf?usp=sharing
